@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "--Instagram Log In--"
+echo "--Google Log In--"
 read -p "Username: " username
 if [ "$username" = "arya" ];
     then

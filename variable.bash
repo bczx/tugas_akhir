@@ -1,7 +1,5 @@
 #!/bin/bash
 
-name="Arya"
-class="X IPA 1"
-
-echo "Perkenalkan, saya $name"
-echo "Saya dari kelas $class"
+name="arya"
+class="x ipa 1"
+echo "$name from $class"
